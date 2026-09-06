@@ -1,0 +1,1955 @@
+{
+  "embedded": {
+    "id": "embedded",
+    "title": "Embedded Systems",
+    "tagline": "Hardware Architecture & Firmware Campus",
+    "desc": "Microcontrollers, RTOS firmware development, IoT sensors, and ARM Cortex hardware abstraction at Pumo Technovation.",
+    "tag": "Hardware & Firmware",
+    "color": "cyan",
+    "icon": "\u26a1",
+    "totalStudents": 120,
+    "ongoingStudents": 35,
+    "placedStudents": 85,
+    "skills": [
+      "Embedded C",
+      "RTOS",
+      "ARM Cortex",
+      "IoT Sensors",
+      "PCB Design",
+      "UART/SPI/I2C",
+      "Microcontrollers",
+      "FreeRTOS",
+      "FPGA",
+      "Keil MDK"
+    ],
+    "courseTopic": "Embedded Systems, Firmware & IoT Architecture",
+    "courseTopics": [
+      "Microcontroller Architecture (8051, AVR, ARM Cortex-M)",
+      "Real-Time Operating Systems (FreeRTOS / RTOS)",
+      "IoT Sensor Integration & Wireless Telemetry (MQTT/BLE)",
+      "Hardware PCB Design & Altium Prototyping",
+      "FPGA Digital Synthesis & Logic Design",
+      "Automotive AUTOSAR, CAN-FD & Embedded Cybersecurity"
+    ],
+    "courseOverview": "The Embedded Systems course at Pumo Technovation covers hardware-software integration. Students learn microcontroller architecture (8051, AVR, ARM Cortex-M), real-time operating systems (FreeRTOS, RTOS), PCB design principles, IoT sensor integration, and industrial communication protocols (UART, SPI, I2C, CAN). Advanced modules include FPGA programming, automotive ECU development, and cybersecurity for embedded devices. Graduates are equipped for roles in automotive, industrial automation, aerospace, and consumer electronics industries.",
+    "fullCourseContent": "<h2>\u26a1 Embedded Systems, Firmware &amp; IoT Architecture</h2>\n<p class=\"lead\">A rigorous, industry-grade training program bridging bare-metal hardware engineering, deterministic real-time firmware, and scalable IoT cloud deployments.</p>\n\n<div class=\"callout-box\">\n  <h4>\ud83c\udfaf Program Objective &amp; Career Scope</h4>\n  <p>To produce high-caliber embedded systems engineers proficient in 32-bit ARM Cortex architecture, FreeRTOS deterministic scheduling, high-speed PCB design, automotive communication buses (CAN-FD, LIN), and IoT telemetry architectures. Targeted roles include Firmware Engineer, Embedded Linux Developer, IoT Systems Architect, and Automotive ECU Specialist.</p>\n</div>\n\n<h3>\ud83d\udccb Comprehensive Syllabus &amp; Curriculum Breakdown</h3>\n<table class=\"syllabus-table\">\n  <thead>\n    <tr>\n      <th>Module</th>\n      <th>Key Topics Covered</th>\n      <th>Hands-on Lab Exercises &amp; Tools</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><strong>Module 1: Embedded C &amp; Data Structures</strong></td>\n      <td>Bitwise operations, memory-mapped I/O, pointers, circular buffers, stack vs heap, finite state machines (FSM), MISRA-C standards.</td>\n      <td>Bare-metal peripheral drivers, interrupt service routines (ISR), GCC / Keil MDK.</td>\n    </tr>\n    <tr>\n      <td><strong>Module 2: Microcontroller Architectures</strong></td>\n      <td>8051, AVR ATmega, ARM Cortex-M0/M4/M7, clock trees, NVIC nested vector interrupts, DMA controllers, low-power sleep modes.</td>\n      <td>STM32 Nucleo &amp; NXP LPC development boards, J-Link debugging, logic analyzers.</td>\n    </tr>\n    <tr>\n      <td><strong>Module 3: Real-Time Operating Systems (RTOS)</strong></td>\n      <td>FreeRTOS kernel, preemptive task scheduling, semaphores, mutexes with priority inheritance, message queues, event groups.</td>\n      <td>Multi-tasking sensor hub with deterministic latency control and deadline scheduling.</td>\n    </tr>\n    <tr>\n      <td><strong>Module 4: Industrial Protocols</strong></td>\n      <td>UART, SPI, I2C, CAN 2.0B, CAN-FD, RS-485, USB device classes, and automotive diagnostic standards.</td>\n      <td>Mixed-signal oscilloscopes, Saleae logic analyzer decoding, CAN-FD bus analyzers.</td>\n    </tr>\n    <tr>\n      <td><strong>Module 5: IoT &amp; Cloud Telemetry</strong></td>\n      <td>ESP32 Wi-Fi/BLE, MQTT / HTTPS protocols, AWS IoT Core integration, JSON parsing, Over-The-Air (OTA) firmware updates.</td>\n      <td>Edge-to-cloud smart energy monitoring station with live telemetry dashboard.</td>\n    </tr>\n    <tr>\n      <td><strong>Module 6: PCB Design &amp; Hardware</strong></td>\n      <td>Altium Designer / KiCad, schematic capture, multi-layer routing, decoupling strategies, EMI/EMC compliance, SMD soldering.</td>\n      <td>Fabrication of custom 4-layer microcontroller development board with SMD assembly.</td>\n    </tr>\n  </tbody>\n</table>\n\n<h3>\ud83d\udd2c Advanced Hardware Lab Facilities</h3>\n<p>Students have full access to dedicated workstations equipped with 100MHz 4-channel mixed-signal oscilloscopes, 16-channel logic analyzers, variable DC regulated power supplies, hot-air SMD rework stations, and FPGA development kits.</p>\n\n<div class=\"callout-box info\">\n  <h4>\ud83d\udcbc Placement &amp; Hiring Partners</h4>\n  <p>Graduates from Pumo Technovation's Embedded Systems track have been recruited by global technology leaders including <strong>Robert Bosch, Qualcomm, Texas Instruments, STMicroelectronics, Tata Elxsi, and NXP Semiconductors</strong>.</p>\n</div>",
+    "companyLogos": [
+      {
+        "name": "Robert Bosch",
+        "logo": ""
+      },
+      {
+        "name": "Tata Elxsi",
+        "logo": ""
+      },
+      {
+        "name": "Qualcomm",
+        "logo": ""
+      },
+      {
+        "name": "Texas Instruments",
+        "logo": ""
+      },
+      {
+        "name": "STMicroelectronics",
+        "logo": ""
+      },
+      {
+        "name": "NXP Semiconductors",
+        "logo": ""
+      }
+    ],
+    "lightboxSettings": {
+      "showSkills": true,
+      "showCompanyBox": true,
+      "showCourseTab": true,
+      "bgImage": ""
+    },
+    "images": [
+      {
+        "id": "img-emb-1",
+        "url": "assets/Embedded/embedded_1.png",
+        "title": "R&D Embedded Systems Engineer",
+        "description": "Hardware-software integration lab session conducting real-time firmware debugging, logic signal capture, and ARM Cortex interrupt handling.",
+        "skills": [
+          "Embedded C",
+          "ARM Cortex-M4",
+          "Debugging",
+          "Oscilloscope",
+          "Interrupts"
+        ],
+        "company": "Onwards Technologies",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_embedded_1.svg",
+        "courseStudied": "R&D Embedded Systems Engineer",
+        "resume": "assets/Resumes/resume_embedded_1.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-emb-2",
+        "url": "assets/Embedded/embedded_2.png",
+        "title": "Junior Embedded Firmware Developer",
+        "description": "Junior Embedded Developer working on deterministic FreeRTOS task scheduling, UART/SPI peripheral driver abstraction, and bare-metal C optimization.",
+        "skills": [
+          "Embedded C",
+          "FreeRTOS",
+          "Keil MDK",
+          "Hardware Architecture",
+          "STM32"
+        ],
+        "company": "CRISP",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_embedded_2.svg",
+        "courseStudied": "Junior Embedded Firmware Developer",
+        "resume": "assets/Resumes/resume_embedded_2.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-emb-3",
+        "url": "assets/Embedded/embedded_3.png",
+        "title": "IoT Wireless Sensor Developer",
+        "description": "Ultra-low power IoT telemetry node interfacing temperature, pressure, and gas sensors over MQTT and Bluetooth Low Energy (BLE) protocols.",
+        "skills": [
+          "IoT Sensors",
+          "UART/SPI/I2C",
+          "MQTT Telemetry",
+          "Wireless Protocols",
+          "ESP32"
+        ],
+        "company": "EMGLITZ TECHNOLOGIES",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_embedded_3.svg",
+        "courseStudied": "IoT Wireless Sensor Developer",
+        "resume": "assets/Resumes/resume_embedded_3.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-emb-4",
+        "url": "assets/Embedded/embedded_4.png",
+        "title": "Graduate Engineer Trainee \u2014 Firmware",
+        "description": "Graduate Engineer Trainee role focusing on high-density PCB layout routing, surface mount component assembly, and hardware signal validation.",
+        "skills": [
+          "PCB Design",
+          "Circuit Design",
+          "SMD Assembly",
+          "Signal Integrity",
+          "Altium Designer"
+        ],
+        "company": "TVS EUROGRIP",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_embedded_4.svg",
+        "courseStudied": "Graduate Engineer Trainee \u2014 Firmware",
+        "resume": "assets/Resumes/resume_embedded_4.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-emb-5",
+        "url": "assets/Embedded/embedded_5.png",
+        "title": "Embedded Cybersecurity Specialist",
+        "description": "Hardware root of trust, AES cryptographic coprocessors, and secure bootloader firmware development for connected smart industrial devices.",
+        "skills": [
+          "Cybersecurity",
+          "Secure Boot",
+          "Embedded C",
+          "Cryptography",
+          "ARM TrustZone"
+        ],
+        "company": "CRISP",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_embedded_5.svg",
+        "courseStudied": "Embedded Cybersecurity Specialist",
+        "resume": "assets/Resumes/resume_embedded_5.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-emb-6",
+        "url": "assets/Embedded/embedded_6.png",
+        "title": "Embedded Systems Hardware Engineer",
+        "description": "Real-time timing signal capture and bus decoding for SPI and I2C industrial sensor networks using mixed-signal oscilloscopes and logic analyzers.",
+        "skills": [
+          "UART/SPI/I2C",
+          "Oscilloscope",
+          "Signal Analysis",
+          "Hardware Debugging",
+          "MISRA-C"
+        ],
+        "company": "Lakshmi Industrial Automation",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_embedded_6.svg",
+        "courseStudied": "Embedded Systems Hardware Engineer",
+        "resume": "assets/Resumes/resume_embedded_6.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-emb-7",
+        "url": "assets/Embedded/embedded_7.png",
+        "title": "Mechatronics & Design Engineer",
+        "description": "Multi-axis servo and stepper motor control subsystem driven by RTOS deterministic task scheduling and PWM pulse-width modulation timers.",
+        "skills": [
+          "RTOS",
+          "PWM Control",
+          "Motor Drivers",
+          "Robotics",
+          "PID Loops"
+        ],
+        "company": "Nibav Home Lifts",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_embedded_7.svg",
+        "courseStudied": "Mechatronics & Design Engineer",
+        "resume": "assets/Resumes/resume_embedded_7.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-emb-8",
+        "url": "assets/Embedded/embedded_8.png",
+        "title": "SMD Hardware Rework Engineer",
+        "description": "Precision surface-mount SMD component soldering, hot-air rework, and prototype board validation in the Pumo hardware fabrication facility.",
+        "skills": [
+          "PCB Prototyping",
+          "SMD Soldering",
+          "Hardware Rework",
+          "Testing",
+          "Multimeter"
+        ],
+        "company": "Inboxist Happy Inboxing",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_embedded_8.svg",
+        "courseStudied": "SMD Hardware Rework Engineer",
+        "resume": "assets/Resumes/resume_embedded_8.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-emb-9",
+        "url": "assets/Embedded/embedded_9.png",
+        "title": "Embedded Debugging Engineer",
+        "description": "Dedicated developer test bench with multi-channel logic analyzers, variable DC power rails, and JTAG hardware debugging probes.",
+        "skills": [
+          "JTAG",
+          "Logic Analyzer",
+          "Keil MDK",
+          "Hardware Abstraction",
+          "STM32 Nucleo"
+        ],
+        "company": "Technomed Electronics",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_embedded_9.svg",
+        "courseStudied": "Embedded Debugging Engineer",
+        "resume": "assets/Resumes/resume_embedded_9.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-emb-10",
+        "url": "assets/Embedded/embedded_10.png",
+        "title": "PCB Layout Design Engineer",
+        "description": "Advanced PCB layout design with high-speed signal routing, controlled impedance traces, EMC shielding, and multilayer stackup optimization.",
+        "skills": [
+          "PCB Layout",
+          "Altium Designer",
+          "Gerber Files",
+          "Signal Integrity",
+          "KiCad"
+        ],
+        "company": "Tech Solutions LLP",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_embedded_10.svg",
+        "courseStudied": "PCB Layout Design Engineer",
+        "resume": "assets/Resumes/resume_embedded_10.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-emb-11",
+        "url": "assets/Embedded/embedded_11.png",
+        "title": "Bare-Metal Kernel Systems Developer",
+        "description": "Kernel level memory buffer debugging, bare-metal C memory allocation optimization, and stack overflow runtime inspection.",
+        "skills": [
+          "Embedded C",
+          "Memory Management",
+          "GDB Debugging",
+          "Bare Metal",
+          "Pointer Arithmetic"
+        ],
+        "company": "Tata Elxsi",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_embedded_11.svg",
+        "courseStudied": "Bare-Metal Kernel Systems Developer",
+        "resume": "assets/Resumes/resume_embedded_11.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-emb-12",
+        "url": "assets/Embedded/embedded_12.png",
+        "title": "FPGA Digital Logic Engineer",
+        "description": "Hardware description language (Verilog/VHDL) logic synthesis and real-time digital logic simulation on Xilinx/Intel FPGA development boards.",
+        "skills": [
+          "FPGA",
+          "VHDL/Verilog",
+          "Logic Synthesis",
+          "Digital Design",
+          "Quartus"
+        ],
+        "company": "Qualcomm",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_embedded_12.svg",
+        "courseStudied": "FPGA Digital Logic Engineer",
+        "resume": "assets/Resumes/resume_embedded_12.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-emb-13",
+        "url": "assets/Embedded/embedded_13.png",
+        "title": "Automotive ECU Firmware Engineer",
+        "description": "AUTOSAR compliant automotive electronic control unit (ECU) firmware with CAN-FD telemetry and fail-safe watchdog routines.",
+        "skills": [
+          "AUTOSAR",
+          "CAN Bus",
+          "Automotive ECU",
+          "RTOS",
+          "CAN-FD"
+        ],
+        "company": "Robert Bosch",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_embedded_13.svg",
+        "courseStudied": "Automotive ECU Firmware Engineer",
+        "resume": "assets/Resumes/resume_embedded_13.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      }
+    ]
+  },
+  "mechanical": {
+    "id": "mechanical",
+    "title": "Mechanical Engineering",
+    "tagline": "3D CAD Modeling & Kinematics Campus",
+    "desc": "Parametric 3D CAD modeling, FEA stress analysis, thermal dynamics, and robotics lab at Pumo Technovation.",
+    "tag": "Design & Dynamics",
+    "color": "amber",
+    "icon": "\ud83d\udcd0",
+    "totalStudents": 150,
+    "ongoingStudents": 40,
+    "placedStudents": 110,
+    "skills": [
+      "SolidWorks",
+      "CATIA",
+      "AutoCAD",
+      "FEA Analysis",
+      "CFD",
+      "3D Printing",
+      "CNC Machining",
+      "Robotics",
+      "Thermodynamics",
+      "Ansys"
+    ],
+    "courseTopic": "Industrial 3D CAD Modeling, FEA Simulation & Robotics",
+    "courseTopics": [
+      "Parametric 3D CAD Modeling (SolidWorks & CATIA)",
+      "Finite Element Structural Analysis (FEA / Ansys)",
+      "Computational Fluid Dynamics & Aerodynamics (CFD)",
+      "Industrial Robotics & Multi-Body Kinematics",
+      "CNC Multi-Axis G-Code Programming & CAM",
+      "Additive Manufacturing & Industrial 3D Printing"
+    ],
+    "courseOverview": "Pumo Technovation's Mechanical Engineering program provides world-class training in parametric 3D modeling using SolidWorks and CATIA, finite element analysis (FEA) with Ansys, computational fluid dynamics (CFD), CNC programming, and advanced manufacturing techniques. Students gain hands-on experience with industrial robots, laser cutting, 3D printing, and precision measurement systems. The curriculum bridges theoretical mechanics with real-world manufacturing, preparing graduates for roles in aerospace, automotive, heavy machinery, and product design sectors.",
+    "fullCourseContent": "<h2>\ud83d\udcd0 Industrial 3D CAD Modeling, FEA Simulation &amp; Robotics</h2>\n<p class=\"lead\">An advanced design and manufacturing master curriculum combining parametric solid/surface modeling, computational physics simulations, and automated robotic systems.</p>\n\n<div class=\"callout-box\">\n  <h4>\ud83c\udfaf Program Objective &amp; Core Competencies</h4>\n  <p>To train industry-ready mechanical design engineers in parametric Class-A surfacing, structural FEA stress validation under dynamic load cases, aerodynamics CFD modeling, automated CAM toolpath generation, and multi-body kinematic robotics simulation. Targeted roles include CAD/CAM Design Engineer, FEA/CFD Simulation Specialist, Robotics Engineer, and Automotive Product Designer.</p>\n</div>\n\n<h3>\ud83d\udccb Detailed Syllabus &amp; Technical Curriculum</h3>\n<table class=\"syllabus-table\">\n  <thead>\n    <tr>\n      <th>Module</th>\n      <th>Key Topics Covered</th>\n      <th>Software &amp; Hands-on Laboratory</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><strong>Module 1: Parametric 3D CAD Modeling</strong></td>\n      <td>Sketch constraints, feature trees, complex sweeps/lofts, sheet metal design, weldments, mold design, Class-A freeform surfacing.</td>\n      <td>SolidWorks &amp; Dassault CATIA V5/3DEXPERIENCE modeling workshops.</td>\n    </tr>\n    <tr>\n      <td><strong>Module 2: Finite Element Analysis (FEA)</strong></td>\n      <td>Von Mises stress criteria, mesh convergence, modal vibrational analysis, buckling, nonlinear transient dynamics, fatigue life calculation.</td>\n      <td>Ansys Mechanical Workbench, structural stress heatmaps &amp; factor of safety verification.</td>\n    </tr>\n    <tr>\n      <td><strong>Module 3: Computational Fluid Dynamics (CFD)</strong></td>\n      <td>Navier-Stokes equations, turbulent boundary layer models (k-epsilon / k-omega), supersonic nozzle flow, heat exchangers.</td>\n      <td>Ansys Fluent &amp; CFX aerothermal simulation rigs.</td>\n    </tr>\n    <tr>\n      <td><strong>Module 4: Industrial Robotics &amp; Kinematics</strong></td>\n      <td>Forward and inverse kinematics, 6-DOF articulated arms, joint velocity profiles, collision-free trajectory planning.</td>\n      <td>Robotic welding &amp; pick-and-place simulation cells.</td>\n    </tr>\n    <tr>\n      <td><strong>Module 5: CNC Programming &amp; CAM</strong></td>\n      <td>G-code &amp; M-code manual programming, 3-axis/5-axis toolpath strategies, feeds and speeds optimization, surface finish control.</td>\n      <td>Mastercam / SolidCAM simulation &amp; CNC machining center execution.</td>\n    </tr>\n    <tr>\n      <td><strong>Module 6: Additive Manufacturing &amp; GD&amp;T</strong></td>\n      <td>3D printing (FDM, SLA, SLS), lattice structure optimization, Geometric Dimensioning &amp; Tolerancing (ASME Y14.5), CMM inspection.</td>\n      <td>Industrial 3D printers, laser scanners, and sub-micron coordinate measuring machines.</td>\n    </tr>\n  </tbody>\n</table>\n\n<div class=\"callout-box info\">\n  <h4>\ud83d\udcbc Placement &amp; Hiring Partners</h4>\n  <p>Our mechanical engineering alumni are placed at prestigious manufacturing, defense, and automotive giants including <strong>Tata Motors, ISRO, Hindustan Aeronautics Limited (HAL), L&T Engineering, Mahindra &amp; Mahindra, and Ashok Leyland</strong>.</p>\n</div>",
+    "companyLogos": [
+      {
+        "name": "Tata Motors",
+        "logo": ""
+      },
+      {
+        "name": "L&T Engineering",
+        "logo": ""
+      },
+      {
+        "name": "Mahindra",
+        "logo": ""
+      },
+      {
+        "name": "ISRO",
+        "logo": ""
+      },
+      {
+        "name": "HAL",
+        "logo": ""
+      },
+      {
+        "name": "Ashok Leyland",
+        "logo": ""
+      }
+    ],
+    "lightboxSettings": {
+      "showSkills": true,
+      "showCompanyBox": true,
+      "showCourseTab": true,
+      "bgImage": ""
+    },
+    "images": [
+      {
+        "id": "img-mech-1",
+        "url": "assets/Mechanical/mechanical.png",
+        "title": "Turbine Aerodynamic CAD Specialist",
+        "description": "High-precision 3D CAD aerodynamic profile and rotor blade geometry modeled in CATIA V5 for aerospace propulsion systems.",
+        "skills": [
+          "CATIA",
+          "Aerospace CAD",
+          "Surface Modeling",
+          "Turbomachinery"
+        ],
+        "company": "ISRO",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_mechanical_1.svg",
+        "courseStudied": "Turbine Aerodynamic CAD Specialist",
+        "resume": "assets/Resumes/resume_mechanical_1.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mech-2",
+        "url": "assets/Mechanical/mechanical_2.png",
+        "title": "Gearbox Design & Kinematics Trainee",
+        "description": "Helical and spur gear train assembly with involute tooth profile calculations for heavy industrial torque reduction units.",
+        "skills": [
+          "SolidWorks",
+          "Gear Design",
+          "Kinematics",
+          "Power Transmission"
+        ],
+        "company": "L&T Engineering",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_mechanical_2.svg",
+        "courseStudied": "Gearbox Design & Kinematics Trainee",
+        "resume": "assets/Resumes/resume_mechanical_2.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mech-3",
+        "url": "assets/Mechanical/mechanical_3.png",
+        "title": "Robotics Kinematics Engineer",
+        "description": "6-DOF industrial articulated robot arm kinematic simulation, joint torque optimization, and reach envelope collision analysis.",
+        "skills": [
+          "Robotics",
+          "Kinematics",
+          "SolidWorks",
+          "Automation"
+        ],
+        "company": "Tata Motors",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_mechanical_3.svg",
+        "courseStudied": "Robotics Kinematics Engineer",
+        "resume": "assets/Resumes/resume_mechanical_3.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mech-4",
+        "url": "assets/Mechanical/mechanical_4.png",
+        "title": "CNC Multi-Axis CAM Specialist",
+        "description": "Multi-axis CNC milling setup showing tool path generation, G-code simulation, feeds & speeds optimization, and surface tolerance inspection.",
+        "skills": [
+          "CNC Machining",
+          "G-Code",
+          "Manufacturing",
+          "CAM"
+        ],
+        "company": "HAL",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_mechanical_4.svg",
+        "courseStudied": "CNC Multi-Axis CAM Specialist",
+        "resume": "assets/Resumes/resume_mechanical_4.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mech-5",
+        "url": "assets/Mechanical/mechanical_5.png",
+        "title": "Heavy Gearbox Casting Engineer",
+        "description": "Cast iron heavy industrial transmission casing with internal bearing seats, oil lubrication channels, and spline shafts.",
+        "skills": [
+          "SolidWorks",
+          "Casting Design",
+          "FEA Analysis",
+          "Heavy Machinery"
+        ],
+        "company": "Mahindra",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_mechanical_5.svg",
+        "courseStudied": "Heavy Gearbox Casting Engineer",
+        "resume": "assets/Resumes/resume_mechanical_5.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mech-6",
+        "url": "assets/Mechanical/mechanical_6.png",
+        "title": "Automotive Crash & FEA Analyst",
+        "description": "Full-body vehicle monocoque structural rigidity, torsional stiffness, and crashworthiness transient stress analysis in Ansys.",
+        "skills": [
+          "FEA Analysis",
+          "Ansys",
+          "Automotive CAD",
+          "Crash Simulation"
+        ],
+        "company": "Tata Motors",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_mechanical_6.svg",
+        "courseStudied": "Automotive Crash & FEA Analyst",
+        "resume": "assets/Resumes/resume_mechanical_6.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mech-7",
+        "url": "assets/Mechanical/mechanical_7.png",
+        "title": "Aerothermal Turbine Blade Developer",
+        "description": "Internal cooling passage design and thermal barrier coating simulation for high-temperature jet engine superalloy blades.",
+        "skills": [
+          "Thermodynamics",
+          "CFD",
+          "CATIA",
+          "Aerospace Engineering"
+        ],
+        "company": "HAL",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_mechanical_7.svg",
+        "courseStudied": "Aerothermal Turbine Blade Developer",
+        "resume": "assets/Resumes/resume_mechanical_7.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mech-8",
+        "url": "assets/Mechanical/mechanical_8.png",
+        "title": "Hydraulic System Design Engineer",
+        "description": "High-pressure hydraulic piston and cylinder seal assembly with finite element fluid pressure and burst calculations.",
+        "skills": [
+          "Hydraulics",
+          "Fluid Power",
+          "SolidWorks",
+          "FEA Analysis"
+        ],
+        "company": "L&T Engineering",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_mechanical_8.svg",
+        "courseStudied": "Hydraulic System Design Engineer",
+        "resume": "assets/Resumes/resume_mechanical_8.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mech-9",
+        "url": "assets/Mechanical/mechanical_9.png",
+        "title": "Reverse Engineering Metrology Trainee",
+        "description": "Non-contact 3D optical laser scanning for reverse engineering, GD&T inspection, and sub-micron deviation heatmaps.",
+        "skills": [
+          "Metrology",
+          "GD&T",
+          "Reverse Engineering",
+          "Laser Scanning"
+        ],
+        "company": "Ashok Leyland",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_mechanical_9.svg",
+        "courseStudied": "Reverse Engineering Metrology Trainee",
+        "resume": "assets/Resumes/resume_mechanical_9.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mech-10",
+        "url": "assets/Mechanical/mechanical_10.png",
+        "title": "Harmonic Servo Mechanism Engineer",
+        "description": "Harmonic drive gear reducer and high-torque brushless servo joint module for precision robotic manipulators.",
+        "skills": [
+          "Robotics",
+          "Harmonic Drive",
+          "Mechanism Design",
+          "SolidWorks"
+        ],
+        "company": "Tata Motors",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_mechanical_10.svg",
+        "courseStudied": "Harmonic Servo Mechanism Engineer",
+        "resume": "assets/Resumes/resume_mechanical_10.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mech-11",
+        "url": "assets/Mechanical/mechanical_11.png",
+        "title": "Additive Manufacturing Specialist",
+        "description": "Selective laser sintering (SLS) additive manufacturing for complex aerospace brackets with topology lattice infills.",
+        "skills": [
+          "3D Printing",
+          "Additive Manufacturing",
+          "Topology Optimization",
+          "Prototyping"
+        ],
+        "company": "ISRO",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_mechanical_11.svg",
+        "courseStudied": "Additive Manufacturing Specialist",
+        "resume": "assets/Resumes/resume_mechanical_11.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mech-12",
+        "url": "assets/Mechanical/mechanical_12.png",
+        "title": "FEA Structural Stress Analyst",
+        "description": "Von Mises stress distribution and factor of safety calculation on structural cantilever truss members under dynamic loads.",
+        "skills": [
+          "FEA Analysis",
+          "Ansys",
+          "Structural Mechanics",
+          "Stress Analysis"
+        ],
+        "company": "L&T Engineering",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_mechanical_12.svg",
+        "courseStudied": "FEA Structural Stress Analyst",
+        "resume": "assets/Resumes/resume_mechanical_12.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mech-13",
+        "url": "assets/Mechanical/mechanical_13.png",
+        "title": "5-Axis CNC Milling Specialist",
+        "description": "High-speed electro-spindle contouring complex freeform surfaces on aerospace grade aluminum blocks.",
+        "skills": [
+          "CNC Machining",
+          "5-Axis Milling",
+          "CAM Software",
+          "Manufacturing"
+        ],
+        "company": "HAL",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_mechanical_13.svg",
+        "courseStudied": "5-Axis CNC Milling Specialist",
+        "resume": "assets/Resumes/resume_mechanical_13.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mech-14",
+        "url": "assets/Mechanical/mechanical_14.png",
+        "title": "Pneumatic Valve Manifold Designer",
+        "description": "Multi-port solenoid valve manifold designed for automated packaging machine pneumatic cylinder sequencing.",
+        "skills": [
+          "Pneumatics",
+          "Valve Design",
+          "Automation",
+          "AutoCAD"
+        ],
+        "company": "Mahindra",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_mechanical_14.svg",
+        "courseStudied": "Pneumatic Valve Manifold Designer",
+        "resume": "assets/Resumes/resume_mechanical_14.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mech-15",
+        "url": "assets/Mechanical/mechanical_15.png",
+        "title": "Parametric Class-A Surfacing Engineer",
+        "description": "Curvature continuous Class-A parametric surfacing for ergonomic consumer product exterior enclosures.",
+        "skills": [
+          "SolidWorks",
+          "Class-A Surfacing",
+          "Industrial Design",
+          "CAD Modeling"
+        ],
+        "company": "Tata Motors",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_mechanical_15.svg",
+        "courseStudied": "Parametric Class-A Surfacing Engineer",
+        "resume": "assets/Resumes/resume_mechanical_15.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mech-16",
+        "url": "assets/Mechanical/mechanical_16.png",
+        "title": "Turbine Aerodynamic CAD Specialist",
+        "description": "High-precision 3D CAD aerodynamic profile and rotor blade geometry modeled in CATIA V5 for aerospace propulsion systems.",
+        "skills": [
+          "CATIA",
+          "Aerospace CAD",
+          "Surface Modeling",
+          "Turbomachinery"
+        ],
+        "company": "ISRO",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_mechanical_16.svg",
+        "courseStudied": "Turbine Aerodynamic CAD Specialist",
+        "resume": "assets/Resumes/resume_mechanical_16.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mech-17",
+        "url": "assets/Mechanical/mechanical_17.png",
+        "title": "Gearbox Design & Kinematics Trainee",
+        "description": "Helical and spur gear train assembly with involute tooth profile calculations for heavy industrial torque reduction units.",
+        "skills": [
+          "SolidWorks",
+          "Gear Design",
+          "Kinematics",
+          "Power Transmission"
+        ],
+        "company": "L&T Engineering",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_mechanical_17.svg",
+        "courseStudied": "Gearbox Design & Kinematics Trainee",
+        "resume": "assets/Resumes/resume_mechanical_17.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mech-18",
+        "url": "assets/Mechanical/mechanical_18.png",
+        "title": "Robotics Kinematics Engineer",
+        "description": "6-DOF industrial articulated robot arm kinematic simulation, joint torque optimization, and reach envelope collision analysis.",
+        "skills": [
+          "Robotics",
+          "Kinematics",
+          "SolidWorks",
+          "Automation"
+        ],
+        "company": "Tata Motors",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_mechanical_18.svg",
+        "courseStudied": "Robotics Kinematics Engineer",
+        "resume": "assets/Resumes/resume_mechanical_18.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mech-19",
+        "url": "assets/Mechanical/mechanical_19.png",
+        "title": "CNC Multi-Axis CAM Specialist",
+        "description": "Multi-axis CNC milling setup showing tool path generation, G-code simulation, feeds & speeds optimization, and surface tolerance inspection.",
+        "skills": [
+          "CNC Machining",
+          "G-Code",
+          "Manufacturing",
+          "CAM"
+        ],
+        "company": "HAL",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_mechanical_19.svg",
+        "courseStudied": "CNC Multi-Axis CAM Specialist",
+        "resume": "assets/Resumes/resume_mechanical_19.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mech-20",
+        "url": "assets/Mechanical/mechanical_20.png",
+        "title": "Heavy Gearbox Casting Engineer",
+        "description": "Cast iron heavy industrial transmission casing with internal bearing seats, oil lubrication channels, and spline shafts.",
+        "skills": [
+          "SolidWorks",
+          "Casting Design",
+          "FEA Analysis",
+          "Heavy Machinery"
+        ],
+        "company": "Mahindra",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_mechanical_20.svg",
+        "courseStudied": "Heavy Gearbox Casting Engineer",
+        "resume": "assets/Resumes/resume_mechanical_20.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mech-21",
+        "url": "assets/Mechanical/mechanical_21.png",
+        "title": "Automotive Crash & FEA Analyst",
+        "description": "Full-body vehicle monocoque structural rigidity, torsional stiffness, and crashworthiness transient stress analysis in Ansys.",
+        "skills": [
+          "FEA Analysis",
+          "Ansys",
+          "Automotive CAD",
+          "Crash Simulation"
+        ],
+        "company": "Tata Motors",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_mechanical_21.svg",
+        "courseStudied": "Automotive Crash & FEA Analyst",
+        "resume": "assets/Resumes/resume_mechanical_21.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mech-22",
+        "url": "assets/Mechanical/mechanical_22.png",
+        "title": "Aerothermal Turbine Blade Developer",
+        "description": "Internal cooling passage design and thermal barrier coating simulation for high-temperature jet engine superalloy blades.",
+        "skills": [
+          "Thermodynamics",
+          "CFD",
+          "CATIA",
+          "Aerospace Engineering"
+        ],
+        "company": "HAL",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_mechanical_22.svg",
+        "courseStudied": "Aerothermal Turbine Blade Developer",
+        "resume": "assets/Resumes/resume_mechanical_22.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mech-23",
+        "url": "assets/Mechanical/mechanical_23.png",
+        "title": "Hydraulic System Design Engineer",
+        "description": "High-pressure hydraulic piston and cylinder seal assembly with finite element fluid pressure and burst calculations.",
+        "skills": [
+          "Hydraulics",
+          "Fluid Power",
+          "SolidWorks",
+          "FEA Analysis"
+        ],
+        "company": "L&T Engineering",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_mechanical_23.svg",
+        "courseStudied": "Hydraulic System Design Engineer",
+        "resume": "assets/Resumes/resume_mechanical_23.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mech-24",
+        "url": "assets/Mechanical/mechanical_24.png",
+        "title": "Reverse Engineering Metrology Trainee",
+        "description": "Non-contact 3D optical laser scanning for reverse engineering, GD&T inspection, and sub-micron deviation heatmaps.",
+        "skills": [
+          "Metrology",
+          "GD&T",
+          "Reverse Engineering",
+          "Laser Scanning"
+        ],
+        "company": "Ashok Leyland",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_mechanical_24.svg",
+        "courseStudied": "Reverse Engineering Metrology Trainee",
+        "resume": "assets/Resumes/resume_mechanical_24.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mech-25",
+        "url": "assets/Mechanical/mechanical_25.png",
+        "title": "Harmonic Servo Mechanism Engineer",
+        "description": "Harmonic drive gear reducer and high-torque brushless servo joint module for precision robotic manipulators.",
+        "skills": [
+          "Robotics",
+          "Harmonic Drive",
+          "Mechanism Design",
+          "SolidWorks"
+        ],
+        "company": "Tata Motors",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_mechanical_25.svg",
+        "courseStudied": "Harmonic Servo Mechanism Engineer",
+        "resume": "assets/Resumes/resume_mechanical_25.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mech-26",
+        "url": "assets/Mechanical/mechanical_26.png",
+        "title": "Additive Manufacturing Specialist",
+        "description": "Selective laser sintering (SLS) additive manufacturing for complex aerospace brackets with topology lattice infills.",
+        "skills": [
+          "3D Printing",
+          "Additive Manufacturing",
+          "Topology Optimization",
+          "Prototyping"
+        ],
+        "company": "ISRO",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_mechanical_26.svg",
+        "courseStudied": "Additive Manufacturing Specialist",
+        "resume": "assets/Resumes/resume_mechanical_26.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mech-27",
+        "url": "assets/Mechanical/mechanical_27.png",
+        "title": "FEA Structural Stress Analyst",
+        "description": "Von Mises stress distribution and factor of safety calculation on structural cantilever truss members under dynamic loads.",
+        "skills": [
+          "FEA Analysis",
+          "Ansys",
+          "Structural Mechanics",
+          "Stress Analysis"
+        ],
+        "company": "L&T Engineering",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_mechanical_27.svg",
+        "courseStudied": "FEA Structural Stress Analyst",
+        "resume": "assets/Resumes/resume_mechanical_27.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mech-28",
+        "url": "assets/Mechanical/mechanical_28.png",
+        "title": "5-Axis CNC Milling Specialist",
+        "description": "High-speed electro-spindle contouring complex freeform surfaces on aerospace grade aluminum blocks.",
+        "skills": [
+          "CNC Machining",
+          "5-Axis Milling",
+          "CAM Software",
+          "Manufacturing"
+        ],
+        "company": "HAL",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_mechanical_28.svg",
+        "courseStudied": "5-Axis CNC Milling Specialist",
+        "resume": "assets/Resumes/resume_mechanical_28.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mech-29",
+        "url": "assets/Mechanical/mechanical_29.png",
+        "title": "Pneumatic Valve Manifold Designer",
+        "description": "Multi-port solenoid valve manifold designed for automated packaging machine pneumatic cylinder sequencing.",
+        "skills": [
+          "Pneumatics",
+          "Valve Design",
+          "Automation",
+          "AutoCAD"
+        ],
+        "company": "Mahindra",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_mechanical_29.svg",
+        "courseStudied": "Pneumatic Valve Manifold Designer",
+        "resume": "assets/Resumes/resume_mechanical_29.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mech-30",
+        "url": "assets/Mechanical/mechanical_30.png",
+        "title": "Parametric Class-A Surfacing Engineer",
+        "description": "Curvature continuous Class-A parametric surfacing for ergonomic consumer product exterior enclosures.",
+        "skills": [
+          "SolidWorks",
+          "Class-A Surfacing",
+          "Industrial Design",
+          "CAD Modeling"
+        ],
+        "company": "Tata Motors",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_mechanical_30.svg",
+        "courseStudied": "Parametric Class-A Surfacing Engineer",
+        "resume": "assets/Resumes/resume_mechanical_30.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mech-31",
+        "url": "assets/Mechanical/mechanical_31.png",
+        "title": "Turbine Aerodynamic CAD Specialist",
+        "description": "High-precision 3D CAD aerodynamic profile and rotor blade geometry modeled in CATIA V5 for aerospace propulsion systems.",
+        "skills": [
+          "CATIA",
+          "Aerospace CAD",
+          "Surface Modeling",
+          "Turbomachinery"
+        ],
+        "company": "ISRO",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_mechanical_31.svg",
+        "courseStudied": "Turbine Aerodynamic CAD Specialist",
+        "resume": "assets/Resumes/resume_mechanical_31.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mech-32",
+        "url": "assets/Mechanical/mechanical_32.png",
+        "title": "Gearbox Design & Kinematics Trainee",
+        "description": "Helical and spur gear train assembly with involute tooth profile calculations for heavy industrial torque reduction units.",
+        "skills": [
+          "SolidWorks",
+          "Gear Design",
+          "Kinematics",
+          "Power Transmission"
+        ],
+        "company": "L&T Engineering",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_mechanical_32.svg",
+        "courseStudied": "Gearbox Design & Kinematics Trainee",
+        "resume": "assets/Resumes/resume_mechanical_32.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mech-39",
+        "url": "assets/Mechanical/39.png",
+        "title": "Robotics Kinematics Engineer",
+        "description": "6-DOF industrial articulated robot arm kinematic simulation, joint torque optimization, and reach envelope collision analysis.",
+        "skills": [
+          "Robotics",
+          "Kinematics",
+          "SolidWorks",
+          "Automation"
+        ],
+        "company": "Tata Motors",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_mechanical_33.svg",
+        "courseStudied": "Robotics Kinematics Engineer",
+        "resume": "assets/Resumes/resume_mechanical_33.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mech-40",
+        "url": "assets/Mechanical/40.png",
+        "title": "CNC Multi-Axis CAM Specialist",
+        "description": "Multi-axis CNC milling setup showing tool path generation, G-code simulation, feeds & speeds optimization, and surface tolerance inspection.",
+        "skills": [
+          "CNC Machining",
+          "G-Code",
+          "Manufacturing",
+          "CAM"
+        ],
+        "company": "HAL",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_mechanical_34.svg",
+        "courseStudied": "CNC Multi-Axis CAM Specialist",
+        "resume": "assets/Resumes/resume_mechanical_34.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mech-48",
+        "url": "assets/Mechanical/48.png",
+        "title": "Heavy Gearbox Casting Engineer",
+        "description": "Cast iron heavy industrial transmission casing with internal bearing seats, oil lubrication channels, and spline shafts.",
+        "skills": [
+          "SolidWorks",
+          "Casting Design",
+          "FEA Analysis",
+          "Heavy Machinery"
+        ],
+        "company": "Mahindra",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_mechanical_35.svg",
+        "courseStudied": "Heavy Gearbox Casting Engineer",
+        "resume": "assets/Resumes/resume_mechanical_35.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mech-50",
+        "url": "assets/Mechanical/50.png",
+        "title": "Automotive Crash & FEA Analyst",
+        "description": "Full-body vehicle monocoque structural rigidity, torsional stiffness, and crashworthiness transient stress analysis in Ansys.",
+        "skills": [
+          "FEA Analysis",
+          "Ansys",
+          "Automotive CAD",
+          "Crash Simulation"
+        ],
+        "company": "Tata Motors",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_mechanical_36.svg",
+        "courseStudied": "Automotive Crash & FEA Analyst",
+        "resume": "assets/Resumes/resume_mechanical_36.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      }
+    ]
+  },
+  "sap": {
+    "id": "sap",
+    "title": "SAP Solutions",
+    "tagline": "Enterprise Cloud ERP & Core Campus",
+    "desc": "S/4HANA enterprise cloud, ABAP development, supply chain orchestration, and FICO analytics at Pumo Technovation.",
+    "tag": "Enterprise Cloud ERP",
+    "color": "blue",
+    "icon": "\ud83d\udcca",
+    "totalStudents": 90,
+    "ongoingStudents": 25,
+    "placedStudents": 65,
+    "skills": [
+      "SAP S/4HANA",
+      "ABAP",
+      "SAP FICO",
+      "SAP MM",
+      "SAP SD",
+      "SAP Fiori",
+      "SAP BW/BI",
+      "SuccessFactors",
+      "Supply Chain",
+      "SAP BASIS"
+    ],
+    "courseTopic": "Enterprise SAP S/4HANA Cloud ERP & Core Business Modules",
+    "courseTopics": [
+      "SAP S/4HANA In-Memory Cloud Architecture",
+      "Object-Oriented ABAP & Core Data Services (CDS Views)",
+      "SAP FICO (Financial Accounting & Management Controlling)",
+      "SAP MM (Materials Management & Enterprise Procurement)",
+      "SAP SD (Sales Order Processing & Global Distribution)",
+      "SAP Fiori / SAPUI5 Enterprise Mobile App Development"
+    ],
+    "courseOverview": "The SAP Solutions course at Pumo Technovation offers comprehensive training in SAP S/4HANA enterprise resource planning, ABAP object-oriented programming, financial accounting (FICO), materials management (MM), sales & distribution (SD), and SAP BW/BI analytics. Students work on live SAP systems, learning Fiori app development, business process integration, and cloud migration strategies. The program is aligned with SAP global certification standards, enabling graduates to work in enterprise IT consulting, implementation, and support roles across industries worldwide.",
+    "fullCourseContent": "<h2>\ud83d\udcca Enterprise SAP S/4HANA Cloud ERP &amp; Core Business Modules</h2>\n<p class=\"lead\">An elite consulting and implementation curriculum covering in-memory HANA computing, advanced ABAP object-oriented programming, and core functional ERP modules.</p>\n\n<div class=\"callout-box\">\n  <h4>\ud83c\udfaf Program Objective &amp; Global Certifications</h4>\n  <p>To train industry-ready SAP Functional and Technical Consultants equipped with deep hands-on expertise in S/4HANA Cloud Architecture, Core Data Services (CDS Views), ACDOCA Universal Journal financial ledger balancing, materials sourcing, and SAP Fiori UI5 enterprise apps. Targeted roles include SAP ABAP Consultant, SAP FICO Consultant, SAP MM/SD Consultant, and ERP Integration Architect.</p>\n</div>\n\n<h3>\ud83d\udccb Module Syllabus &amp; Business Process Curriculum</h3>\n<table class=\"syllabus-table\">\n  <thead>\n    <tr>\n      <th>Module</th>\n      <th>Key Functional &amp; Technical Topics</th>\n      <th>Live SAP GUI &amp; Fiori Exercises</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><strong>Module 1: S/4HANA Architecture &amp; Basis</strong></td>\n      <td>In-memory columnar database, S/4HANA migration pathways, simplification list, Fiori Launchpad administration, client landscapes.</td>\n      <td>Live SAP system login, transaction navigation, user authorizations &amp; transport organizer.</td>\n    </tr>\n    <tr>\n      <td><strong>Module 2: ABAP on HANA &amp; CDS Views</strong></td>\n      <td>Object-Oriented ABAP, Core Data Services (CDS), AMDP (ABAP Managed Database Procedures), BAdI enhancements, OData service creation.</td>\n      <td>Eclipse ADT development, custom CDS view modeling, and RESTful Application Programming (RAP).</td>\n    </tr>\n    <tr>\n      <td><strong>Module 3: SAP FICO (Finance &amp; Controlling)</strong></td>\n      <td>General Ledger (G/L), Accounts Payable (AP), Accounts Receivable (AR), Asset Accounting (AA), Cost Center &amp; Profit Center Accounting.</td>\n      <td>Universal Journal (ACDOCA) configuration, year-end financial closing simulation.</td>\n    </tr>\n    <tr>\n      <td><strong>Module 4: SAP MM (Materials Management)</strong></td>\n      <td>Enterprise structure, material master, vendor master, purchase requisitions, RFQ, purchase orders, goods receipt (MIGO), invoice verification (MIRO).</td>\n      <td>End-to-end Procure-to-Pay (P2P) live enterprise procurement cycle.</td>\n    </tr>\n    <tr>\n      <td><strong>Module 5: SAP SD (Sales &amp; Distribution)</strong></td>\n      <td>Sales enterprise hierarchy, customer master, inquiry, quotation, sales order processing, pricing procedures (Condition Technique), delivery, billing.</td>\n      <td>End-to-end Order-to-Cash (O2C) logistics and commercial sales execution.</td>\n    </tr>\n    <tr>\n      <td><strong>Module 6: SAP Fiori &amp; SAPUI5 Apps</strong></td>\n      <td>SAP Fiori 3.0 design guidelines, SAPUI5 MVC architecture, OData data binding, custom analytical cards, role-based Launchpad tiles.</td>\n      <td>Building and deploying responsive approval apps on SAP Business Technology Platform (BTP).</td>\n    </tr>\n  </tbody>\n</table>\n\n<div class=\"callout-box info\">\n  <h4>\ud83d\udcbc Placement &amp; Consulting Recruiters</h4>\n  <p>Pumo Technovation's SAP graduates are recruited by top global tier-1 IT consulting corporations including <strong>Accenture, Wipro, Infosys, Tata Consultancy Services (TCS), Capgemini, and HCL Technologies</strong>.</p>\n</div>",
+    "companyLogos": [
+      {
+        "name": "Accenture",
+        "logo": ""
+      },
+      {
+        "name": "Wipro",
+        "logo": ""
+      },
+      {
+        "name": "Infosys",
+        "logo": ""
+      },
+      {
+        "name": "TCS",
+        "logo": ""
+      },
+      {
+        "name": "Capgemini",
+        "logo": ""
+      },
+      {
+        "name": "HCL Technologies",
+        "logo": ""
+      }
+    ],
+    "lightboxSettings": {
+      "showSkills": true,
+      "showCompanyBox": true,
+      "showCourseTab": true,
+      "bgImage": ""
+    },
+    "images": [
+      {
+        "id": "img-sap-1",
+        "url": "assets/SAP/sap.png",
+        "title": "SAP Analytics Cloud Executive Specialist",
+        "description": "Executive KPI overview dashboard integrating enterprise financials, supply chain metrics, and procurement analytics in SAP Analytics Cloud.",
+        "skills": [
+          "SAP S/4HANA",
+          "SAP BW/BI",
+          "Analytics Cloud",
+          "FICO"
+        ],
+        "company": "Accenture",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_sap_1.svg",
+        "courseStudied": "SAP Analytics Cloud Executive Specialist",
+        "resume": "assets/Resumes/resume_sap_1.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-sap-2",
+        "url": "assets/SAP/sap_2.png",
+        "title": "Global Enterprise Data Warehousing Consultant",
+        "description": "Core data warehousing models and multi-dimensional calculation views aggregating multi-national transaction records.",
+        "skills": [
+          "SAP BW/BI",
+          "HANA Modeling",
+          "Data Warehousing",
+          "SQL"
+        ],
+        "company": "Infosys",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_sap_2.svg",
+        "courseStudied": "Global Enterprise Data Warehousing Consultant",
+        "resume": "assets/Resumes/resume_sap_2.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-sap-3",
+        "url": "assets/SAP/sap_3.png",
+        "title": "SAP MM Supply Chain & Procurement Specialist",
+        "description": "End-to-end logistics tracking, automated purchase order generation, and inventory replenishment via SAP MM Procure-to-Pay.",
+        "skills": [
+          "SAP MM",
+          "Supply Chain",
+          "Procurement",
+          "Inventory Management"
+        ],
+        "company": "Wipro",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_sap_3.svg",
+        "courseStudied": "SAP MM Supply Chain & Procurement Specialist",
+        "resume": "assets/Resumes/resume_sap_3.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-sap-4",
+        "url": "assets/SAP/sap_4.png",
+        "title": "SAP HANA In-Memory Database Administrator",
+        "description": "High-throughput in-memory calculation views and columnar database indexing powering sub-second transactional queries.",
+        "skills": [
+          "SAP S/4HANA",
+          "HANA DB",
+          "Columnar Storage",
+          "BASIS"
+        ],
+        "company": "TCS",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_sap_4.svg",
+        "courseStudied": "SAP HANA In-Memory Database Administrator",
+        "resume": "assets/Resumes/resume_sap_4.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-sap-5",
+        "url": "assets/SAP/sap_5.png",
+        "title": "SAP FICO Financial Accounting Consultant",
+        "description": "Universal Journal (ACDOCA) general ledger balancing, cost center accounting, and automated balance sheet reconciliation.",
+        "skills": [
+          "SAP FICO",
+          "General Ledger",
+          "ACDOCA",
+          "Financial Accounting"
+        ],
+        "company": "Capgemini",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_sap_5.svg",
+        "courseStudied": "SAP FICO Financial Accounting Consultant",
+        "resume": "assets/Resumes/resume_sap_5.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-sap-6",
+        "url": "assets/SAP/sap_6.png",
+        "title": "SAP Object-Oriented ABAP Developer",
+        "description": "Object-oriented ABAP programming, Core Data Services (CDS) views, and custom BAdI enhancement framework development.",
+        "skills": [
+          "ABAP",
+          "CDS Views",
+          "BAdI Enhancements",
+          "OData Services"
+        ],
+        "company": "HCL Technologies",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_sap_6.svg",
+        "courseStudied": "SAP Object-Oriented ABAP Developer",
+        "resume": "assets/Resumes/resume_sap_6.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-sap-7",
+        "url": "assets/SAP/sap_7.png",
+        "title": "SAP Fiori / SAPUI5 Enterprise App Developer",
+        "description": "Responsive SAPUI5 user interface customized for C-suite purchase approvals and sales order release workflows.",
+        "skills": [
+          "SAP Fiori",
+          "SAPUI5",
+          "OData",
+          "Mobile ERP"
+        ],
+        "company": "Accenture",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_sap_7.svg",
+        "courseStudied": "SAP Fiori / SAPUI5 Enterprise App Developer",
+        "resume": "assets/Resumes/resume_sap_7.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-sap-8",
+        "url": "assets/SAP/sap_8.png",
+        "title": "SAP EWM Logistics & Warehouse Consultant",
+        "description": "Extended Warehouse Management (EWM) wave picking, bin allocation strategies, and RFID barcode integration.",
+        "skills": [
+          "SAP EWM",
+          "Supply Chain",
+          "Logistics",
+          "SAP SD"
+        ],
+        "company": "Infosys",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_sap_8.svg",
+        "courseStudied": "SAP EWM Logistics & Warehouse Consultant",
+        "resume": "assets/Resumes/resume_sap_8.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-sap-9",
+        "url": "assets/SAP/sap_9.png",
+        "title": "SAP SuccessFactors Human Capital Specialist",
+        "description": "Employee performance management, payroll processing, and organizational talent succession workflows.",
+        "skills": [
+          "SuccessFactors",
+          "HCM",
+          "Cloud ERP",
+          "Employee Central"
+        ],
+        "company": "Wipro",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_sap_9.svg",
+        "courseStudied": "SAP SuccessFactors Human Capital Specialist",
+        "resume": "assets/Resumes/resume_sap_9.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-sap-10",
+        "url": "assets/SAP/sap_10.png",
+        "title": "SAP SD Sales Order & Pricing Consultant",
+        "description": "Sales quotation pricing procedures, credit limit monitoring, and billing document generation in SAP Sales & Distribution.",
+        "skills": [
+          "SAP SD",
+          "Sales & Distribution",
+          "Pricing Logic",
+          "Billing"
+        ],
+        "company": "TCS",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_sap_10.svg",
+        "courseStudied": "SAP SD Sales Order & Pricing Consultant",
+        "resume": "assets/Resumes/resume_sap_10.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-sap-11",
+        "url": "assets/SAP/sap_11.png",
+        "title": "SAP Manufacturing Execution (ME) Consultant",
+        "description": "Live production line monitoring and OEE dashboard connected via SAP Manufacturing Execution (ME).",
+        "skills": [
+          "SAP Manufacturing",
+          "OEE Tracking",
+          "Analytics",
+          "S/4HANA"
+        ],
+        "company": "Capgemini",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_sap_11.svg",
+        "courseStudied": "SAP Manufacturing Execution (ME) Consultant",
+        "resume": "assets/Resumes/resume_sap_11.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      }
+    ]
+  },
+  "plc": {
+    "id": "plc",
+    "title": "PLC & Automation",
+    "tagline": "Industrial Automation & SCADA Campus",
+    "desc": "Programmable Logic Controllers, Ladder Logic programming, SCADA monitoring, HMI design, and industrial IoT automation at Pumo Technovation.",
+    "tag": "Industrial Automation",
+    "color": "emerald",
+    "icon": "\ud83e\udd16",
+    "totalStudents": 110,
+    "ongoingStudents": 30,
+    "placedStudents": 80,
+    "skills": [
+      "Ladder Logic",
+      "SCADA",
+      "HMI Design",
+      "Siemens TIA Portal",
+      "Allen-Bradley",
+      "PLC Programming",
+      "VFD",
+      "PROFINET",
+      "Industrial IoT",
+      "Safety Relay"
+    ],
+    "courseTopic": "Industrial PLC Automation, SCADA Systems & Smart Factory",
+    "courseTopics": [
+      "Siemens S7-1500 Modular PLC & TIA Portal",
+      "Allen-Bradley ControlLogix PAC & Studio 5000",
+      "SCADA System Architecture & Touch HMI Design",
+      "Variable Frequency Drives (VFD) Closed-Loop Control",
+      "PROFINET & EtherNet/IP Industrial Networks",
+      "Safety Relays & SIL-3 Machine Interlocks"
+    ],
+    "courseOverview": "The PLC & Automation program at Pumo Technovation trains students in the complete spectrum of industrial automation \u2014 from PLC hardware selection and Ladder Logic programming to SCADA system design, HMI panel development, and industrial networking. Students program Siemens S7-1500 and Allen-Bradley ControlLogix PLCs, design SCADA monitoring systems, configure variable frequency drives (VFDs), and implement safety interlocks. Advanced topics include PROFINET/EtherNet/IP industrial networking, industrial IoT integration, and Industry 4.0 smart factory concepts.",
+    "fullCourseContent": "<h2>\ud83e\udd16 Industrial PLC Automation, SCADA Systems &amp; Smart Factory</h2>\n<p class=\"lead\">A complete industrial automation masterclass covering hardware wiring, Ladder Logic, multi-platform PLCs, SCADA supervisory control, VFDs, and Industry 4.0 IoT protocols.</p>\n\n<div class=\"callout-box\">\n  <h4>\ud83c\udfaf Program Objective &amp; Industrial Roles</h4>\n  <p>To train industry-ready Automation Engineers capable of architecting end-to-end factory control systems using Siemens S7-1500, Allen-Bradley ControlLogix, Wonderware/WinCC SCADA, servo motor closed-loop position controls, and PROFINET industrial networking. Targeted roles include PLC Programmer, SCADA Engineer, Industrial Automation Specialist, and Commissioning Engineer.</p>\n</div>\n\n<h3>\ud83d\udccb Module Syllabus &amp; Automation Architecture</h3>\n<table class=\"syllabus-table\">\n  <thead>\n    <tr>\n      <th>Module</th>\n      <th>Key Technical Topics</th>\n      <th>Hardware Workbench &amp; Software</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><strong>Module 1: Electrical Schematics &amp; Relay Logic</strong></td>\n      <td>Control transformers, contactors, overload relays, pushbuttons, pilot lights, emergency stop circuits, ISO 13849 safety categories.</td>\n      <td>Hardwired relay logic control panels, digital multimeters, wiring terminals.</td>\n    </tr>\n    <tr>\n      <td><strong>Module 2: Siemens PLC Programming</strong></td>\n      <td>Siemens S7-1200 / S7-1500, TIA Portal V18, Ladder (LAD), Function Block Diagram (FBD), Structured Control Language (SCL), DB blocks.</td>\n      <td>Siemens S7-1500 hardware trainer racks, analog inputs (4-20mA / 0-10V), high-speed counters.</td>\n    </tr>\n    <tr>\n      <td><strong>Module 3: Allen-Bradley &amp; Rockwell PACs</strong></td>\n      <td>ControlLogix, CompactLogix, Studio 5000 / RSLogix 5000, user-defined data types (UDT), Add-On Instructions (AOI), sequential function charts (SFC).</td>\n      <td>Allen-Bradley hardware test stations &amp; Studio 5000 Emulate.</td>\n    </tr>\n    <tr>\n      <td><strong>Module 4: SCADA Supervisory Control</strong></td>\n      <td>Screen animations, dynamic tag binding, historical trending, real-time alarm logging, recipe management, database SQL logging.</td>\n      <td>Siemens WinCC Professional &amp; Wonderware InTouch SCADA workstations.</td>\n    </tr>\n    <tr>\n      <td><strong>Module 5: HMI Touch Panel Development</strong></td>\n      <td>Siemens Comfort Panels, FactoryTalk View ME, screen navigation templates, alarm banners, security user groups.</td>\n      <td>Multi-touch physical HMI panels connected via industrial Ethernet.</td>\n    </tr>\n    <tr>\n      <td><strong>Module 6: VFD Drives &amp; Industrial Networks</strong></td>\n      <td>Variable Frequency Drives (Siemens Sinamics / PowerFlex), closed-loop PID control, PROFINET, Modbus TCP, EtherNet/IP fieldbuses.</td>\n      <td>VFD motor test benches with optical encoders and torque dynamometers.</td>\n    </tr>\n  </tbody>\n</table>\n\n<div class=\"callout-box info\">\n  <h4>\ud83d\udcbc Placement &amp; Core Automation Recruiters</h4>\n  <p>Our industrial automation engineers are hired by global robotics and factory automation leaders including <strong>Siemens, ABB India, Rockwell Automation, Schneider Electric, Honeywell, and Mitsubishi Electric</strong>.</p>\n</div>",
+    "companyLogos": [
+      {
+        "name": "Siemens",
+        "logo": ""
+      },
+      {
+        "name": "ABB India",
+        "logo": ""
+      },
+      {
+        "name": "Rockwell Automation",
+        "logo": ""
+      },
+      {
+        "name": "Schneider Electric",
+        "logo": ""
+      },
+      {
+        "name": "Honeywell",
+        "logo": ""
+      },
+      {
+        "name": "Mitsubishi Electric",
+        "logo": ""
+      }
+    ],
+    "lightboxSettings": {
+      "showSkills": true,
+      "showCompanyBox": true,
+      "showCourseTab": true,
+      "bgImage": ""
+    },
+    "images": [
+      {
+        "id": "img-plc-1",
+        "url": "assets/PLC/plc_1.png",
+        "title": "Siemens S7-1500 PLC Automation Engineer",
+        "description": "Siemens S7-1500 modular PLC rack with high-speed digital I/O slices, analog inputs, and 24V redundant DC power supplies.",
+        "skills": [
+          "Siemens TIA Portal",
+          "PLC Programming",
+          "Control Cabinet",
+          "Industrial Wiring"
+        ],
+        "company": "Siemens",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_plc_1.svg",
+        "courseStudied": "Siemens S7-1500 PLC Automation Engineer",
+        "resume": "assets/Resumes/resume_plc_1.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-plc-2",
+        "url": "assets/PLC/plc_2.png",
+        "title": "SCADA & HMI Touch Interface Specialist",
+        "description": "Interactive multi-touch SCADA operator dashboard displaying real-time tank levels, motor currents, and alarm diagnostics.",
+        "skills": [
+          "SCADA",
+          "HMI Design",
+          "Alarm Logging",
+          "Industrial IoT"
+        ],
+        "company": "Schneider Electric",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_plc_2.svg",
+        "courseStudied": "SCADA & HMI Touch Interface Specialist",
+        "resume": "assets/Resumes/resume_plc_2.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-plc-3",
+        "url": "assets/PLC/plc_3.png",
+        "title": "Allen-Bradley PAC Ladder Logic Engineer",
+        "description": "ControlLogix PAC system executing dual-redundant Ladder Logic programs for chemical batch mixing automation.",
+        "skills": [
+          "Allen-Bradley",
+          "Studio 5000",
+          "Ladder Logic",
+          "PAC Control"
+        ],
+        "company": "Rockwell Automation",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_plc_3.svg",
+        "courseStudied": "Allen-Bradley PAC Ladder Logic Engineer",
+        "resume": "assets/Resumes/resume_plc_3.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-plc-4",
+        "url": "assets/PLC/plc_4.png",
+        "title": "Industrial Safety Relay & Wiring Engineer",
+        "description": "Hardwired emergency stop circuits, master control relays, and safety interlock wiring according to ISO 13849 standards.",
+        "skills": [
+          "Ladder Logic",
+          "Safety Relay",
+          "Relay Logic",
+          "Electrical Schematic"
+        ],
+        "company": "Honeywell",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_plc_4.svg",
+        "courseStudied": "Industrial Safety Relay & Wiring Engineer",
+        "resume": "assets/Resumes/resume_plc_4.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-plc-5",
+        "url": "assets/PLC/plc_5.png",
+        "title": "Electro-Pneumatic Actuator Automation Specialist",
+        "description": "Electro-pneumatic valve manifold controlling double-acting pneumatic cylinders with magnetic reed switch position feedback.",
+        "skills": [
+          "Pneumatics",
+          "Actuators",
+          "Sensors",
+          "Automation"
+        ],
+        "company": "ABB India",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_plc_5.svg",
+        "courseStudied": "Electro-Pneumatic Actuator Automation Specialist",
+        "resume": "assets/Resumes/resume_plc_5.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-plc-6",
+        "url": "assets/PLC/plc_6.png",
+        "title": "VFD Drive & Motor Control Engineer",
+        "description": "Siemens Sinamics VFD parameterization over PROFINET for closed-loop induction motor speed and torque regulation.",
+        "skills": [
+          "VFD",
+          "Motor Control",
+          "PROFINET",
+          "Inverters"
+        ],
+        "company": "Siemens",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_plc_6.svg",
+        "courseStudied": "VFD Drive & Motor Control Engineer",
+        "resume": "assets/Resumes/resume_plc_6.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-plc-7",
+        "url": "assets/PLC/plc_7.png",
+        "title": "Automated Conveyor Indexing PLC Specialist",
+        "description": "Multi-station indexing conveyor synchronized via PLC encoder pulses and optical proximity detection sensors.",
+        "skills": [
+          "PLC Programming",
+          "Conveyor Automation",
+          "Encoders",
+          "TIA Portal"
+        ],
+        "company": "Mitsubishi Electric",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_plc_7.svg",
+        "courseStudied": "Automated Conveyor Indexing PLC Specialist",
+        "resume": "assets/Resumes/resume_plc_7.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-plc-8",
+        "url": "assets/PLC/plc_8.png",
+        "title": "PROFINET Industrial Fieldbus Architect",
+        "description": "Deterministic real-time industrial Ethernet fieldbus topology linking remote I/O islands, drives, and master PLCs.",
+        "skills": [
+          "PROFINET",
+          "Fieldbus",
+          "Industrial Networking",
+          "EtherNet/IP"
+        ],
+        "company": "Schneider Electric",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_plc_8.svg",
+        "courseStudied": "PROFINET Industrial Fieldbus Architect",
+        "resume": "assets/Resumes/resume_plc_8.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-plc-9",
+        "url": "assets/PLC/plc_9.png",
+        "title": "Machine Safety & SIL 3 Interlock Engineer",
+        "description": "SIL 3 / PLe certified safety controller integrating laser area scanners, light curtains, and safety gate interlocks.",
+        "skills": [
+          "Safety Relay",
+          "SIL 3 / PLe",
+          "Machine Safety",
+          "Interlocks"
+        ],
+        "company": "ABB India",
+        "hidden": false,
+        "offerLetter": "assets/OfferLetters/offer_plc_9.svg",
+        "courseStudied": "Machine Safety & SIL 3 Interlock Engineer",
+        "resume": "assets/Resumes/resume_plc_9.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      }
+    ]
+  },
+  "mep": {
+    "id": "mep",
+    "title": "MEP Engineering",
+    "tagline": "Mechanical, Electrical & Plumbing Campus",
+    "desc": "HVAC design, Electrical distribution, Plumbing & Firefighting systems, and Revit MEP BIM modeling at Pumo Technovation.",
+    "tag": "Building Services & BIM",
+    "color": "emerald",
+    "icon": "\ud83c\udfe2",
+    "totalStudents": 135,
+    "ongoingStudents": 38,
+    "placedStudents": 97,
+    "skills": [
+      "Revit MEP",
+      "HVAC Design",
+      "AutoCAD MEP",
+      "Plumbing Engineering",
+      "Firefighting Systems",
+      "Electrical Layout",
+      "BIM 3D",
+      "Duct Sizing",
+      "HAP Load Calculation",
+      "Navisworks"
+    ],
+    "courseTopic": "MEP Design, HVAC, Electrical & BIM Modeling",
+    "courseTopics": [
+      "HVAC System Design & Heat Load Calculation (HAP)",
+      "Electrical Power Distribution & Single Line Diagrams",
+      "Plumbing, Drainage & Stormwater System Design",
+      "Fire Protection & Sprinkler Network Hydraulics",
+      "Revit MEP 3D BIM Modeling & Navisworks Clash Detection",
+      "Green Building Code (ASHRAE, NBC) & MEP Project Estimation"
+    ],
+    "fullCourseContent": "<h2>\ud83c\udfe2 MEP (Mechanical, Electrical &amp; Plumbing) &amp; BIM Master Class</h2>\n<p class=\"lead\">An industry-focused master curriculum covering building services engineering, HVAC heat load calculations, electrical power distribution, plumbing hydraulics, fire safety design, and 3D Revit MEP BIM coordination.</p>\n\n<div class=\"callout-box\">\n  <h4>\ud83c\udfaf Program Objective &amp; Core Competencies</h4>\n  <p>To train high-caliber MEP design engineers capable of designing complete mechanical, electrical, plumbing, and fire protection systems for commercial towers, industrial facilities, hospitals, and residential complexes. Key software masteries include Autodesk Revit MEP, AutoCAD MEP, Carrier HAP, Navisworks Manage, and Elite Fire Software.</p>\n</div>\n\n<h3>\ud83d\udccb Detailed Syllabus &amp; Technical Curriculum</h3>\n<table class=\"syllabus-table\">\n  <thead>\n    <tr>\n      <th>Module</th>\n      <th>Key Topics Covered</th>\n      <th>Software &amp; Hands-on Laboratory</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td><strong>Module 1: HVAC System Design &amp; Psychrometrics</strong></td>\n      <td>Heat load calculation using Carrier HAP, psychrometric chart analysis, duct sizing methods (equal friction/static regain), chilled water piping, air handling unit (AHU) selection, and VRF systems.</td>\n      <td>Carrier HAP v5.1, McQuay DuctSize, and Revit MEP air terminal layout.</td>\n    </tr>\n    <tr>\n      <td><strong>Module 2: Electrical Power Distribution Design</strong></td>\n      <td>Connected load calculation, transformer &amp; DG sizing, single line diagrams (SLD), cable tray routing, indoor/outdoor lighting lux calculations, circuit breakers, and earthing grid design.</td>\n      <td>Dialux lux calculation, AutoCAD MEP electrical schematics, and ETAP SLD.</td>\n    </tr>\n    <tr>\n      <td><strong>Module 3: Plumbing &amp; Sanitary Engineering</strong></td>\n      <td>Cold and hot water supply hydraulics, fixture units (WSFU/DFU), overhead/underground tank sizing, gravity vs hydro-pneumatic pumping, sanitary drainage, vent piping, and STP integration.</td>\n      <td>AutoCAD MEP plumbing layouts, pipe sizing charts, and NBC 2016 compliance.</td>\n    </tr>\n    <tr>\n      <td><strong>Module 4: Fire Protection &amp; Sprinkler Hydraulics</strong></td>\n      <td>NFPA 13 &amp; NBC fire hazards classification, wet/dry pipe sprinkler systems, hose reel cabinets, fire pump head calculation, and clean agent gas suppression (FM-200 / Novec).</td>\n      <td>Elite Fire hydraulics software, sprinkler grid modeling in Revit MEP.</td>\n    </tr>\n    <tr>\n      <td><strong>Module 5: 3D Revit MEP BIM &amp; Navisworks Clash Detection</strong></td>\n      <td>Multi-disciplinary BIM modeling, parametric family creation, mechanical/electrical/plumbing service coordination, Navisworks hard &amp; soft clash resolution, and 4D timeline simulation.</td>\n      <td>Autodesk Revit 2026 MEP, Navisworks Manage, and BIM 360 Docs.</td>\n    </tr>\n    <tr>\n      <td><strong>Module 6: Green Building &amp; Estimation (BOQ)</strong></td>\n      <td>ASHRAE 90.1 energy efficiency compliance, LEED rating criteria, quantity takeoff, bill of quantities (BOQ) preparation, and MEP contract documentation.</td>\n      <td>Revit Schedule/Quantities, MS Excel BOQ estimation templates.</td>\n    </tr>\n  </tbody>\n</table>\n\n<div class=\"callout-box info\">\n  <h4>\ud83d\udcbc Placement &amp; Hiring Partners</h4>\n  <p>Our MEP Engineering graduates are placed at leading MEP consultancies, BIM services firms, and construction conglomerates including <strong>Voltas, Blue Star, Sterling and Wilson, L&amp;T Construction, Schneider Electric, and Johnson Controls</strong>.</p>\n</div>",
+    "companyLogos": [
+      {
+        "name": "Voltas",
+        "logo": ""
+      },
+      {
+        "name": "Blue Star",
+        "logo": ""
+      },
+      {
+        "name": "Sterling and Wilson",
+        "logo": ""
+      },
+      {
+        "name": "L&T Construction",
+        "logo": ""
+      },
+      {
+        "name": "Schneider Electric",
+        "logo": ""
+      },
+      {
+        "name": "Johnson Controls",
+        "logo": ""
+      }
+    ],
+    "lightboxSettings": {
+      "showSkills": true,
+      "showCompanyBox": true,
+      "showCourseTab": false,
+      "bgImage": ""
+    },
+    "images": [
+      {
+        "id": "img-mep-1",
+        "url": "assets/Mechanical/mechanical_1.png",
+        "title": "HVAC Senior Design Engineer",
+        "description": "Comprehensive HVAC thermal load calculations using Carrier HAP, duct sizing, and chilled water piping layout for commercial high-rises.",
+        "skills": [
+          "Revit MEP",
+          "HVAC Design",
+          "HAP Load Calculation",
+          "Duct Design"
+        ],
+        "company": "Voltas",
+        "hidden": false,
+        "courseStudied": "HVAC Senior Design Engineer",
+        "offerLetter": "assets/OfferLetters/offer_mep_1.svg",
+        "resume": "assets/Resumes/resume_mep_1.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mep-2",
+        "url": "assets/Mechanical/mechanical_2.png",
+        "title": "Electrical Power Distribution Specialist",
+        "description": "Single line diagram (SLD) electrical design, transformer sizing, busbar trunking, and cable tray routing for industrial plants.",
+        "skills": [
+          "Electrical Layout",
+          "AutoCAD MEP",
+          "Single Line Diagram",
+          "Cable Tray"
+        ],
+        "company": "Schneider Electric",
+        "hidden": false,
+        "courseStudied": "Electrical Power Distribution Specialist",
+        "offerLetter": "assets/OfferLetters/offer_mep_2.svg",
+        "resume": "assets/Resumes/resume_mep_2.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mep-3",
+        "url": "assets/Mechanical/mechanical_3.png",
+        "title": "Plumbing & Drainage Systems Designer",
+        "description": "Water supply, sanitary drainage, stormwater harvesting, and grease interceptor system designs adhering to NBC standards.",
+        "skills": [
+          "Plumbing Engineering",
+          "Sanitary Design",
+          "AutoCAD MEP",
+          "Piping"
+        ],
+        "company": "L&T Construction",
+        "hidden": false,
+        "courseStudied": "Plumbing & Drainage Systems Designer",
+        "offerLetter": "assets/OfferLetters/offer_mep_3.svg",
+        "resume": "assets/Resumes/resume_mep_3.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mep-4",
+        "url": "assets/Mechanical/mechanical_4.png",
+        "title": "Fire Protection & Sprinkler Systems Trainee",
+        "description": "Firefighting pump head calculations, wet riser hydraulic modeling, and NFPA compliant sprinkler head positioning.",
+        "skills": [
+          "Firefighting Systems",
+          "Hydraulic Calculation",
+          "NFPA",
+          "Revit MEP"
+        ],
+        "company": "Sterling and Wilson",
+        "hidden": false,
+        "courseStudied": "Fire Protection & Sprinkler Systems Trainee",
+        "offerLetter": "assets/OfferLetters/offer_mep_4.svg",
+        "resume": "assets/Resumes/resume_mep_4.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mep-5",
+        "url": "assets/Mechanical/mechanical_5.png",
+        "title": "Revit MEP 3D BIM Coordinator",
+        "description": "BIM 3D modeling of complex mechanical, electrical, and plumbing service coordination using Autodesk Revit MEP and Navisworks.",
+        "skills": [
+          "Revit MEP",
+          "BIM 3D",
+          "Navisworks",
+          "Clash Detection"
+        ],
+        "company": "Blue Star",
+        "hidden": false,
+        "courseStudied": "Revit MEP 3D BIM Coordinator",
+        "offerLetter": "assets/OfferLetters/offer_mep_5.svg",
+        "resume": "assets/Resumes/resume_mep_5.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mep-6",
+        "url": "assets/Mechanical/mechanical_6.png",
+        "title": "Building Management System (BMS) Specialist",
+        "description": "Direct digital control (DDC) panel architecture, BACnet protocol integration, and VAV box automation for smart buildings.",
+        "skills": [
+          "BMS",
+          "DDC Controllers",
+          "BACnet",
+          "HVAC Control"
+        ],
+        "company": "Johnson Controls",
+        "hidden": false,
+        "courseStudied": "Building Management System (BMS) Specialist",
+        "offerLetter": "assets/OfferLetters/offer_mep_6.svg",
+        "resume": "assets/Resumes/resume_mep_6.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mep-7",
+        "url": "assets/Mechanical/mechanical_7.png",
+        "title": "Acoustic & Duct Noise Control Specialist",
+        "description": "Ductwork sound attenuation calculations, silencer selection, and vibration isolator pads for central air handling units (AHU).",
+        "skills": [
+          "HVAC Acoustics",
+          "Duct Design",
+          "Noise Control",
+          "HAP"
+        ],
+        "company": "Voltas",
+        "hidden": false,
+        "courseStudied": "Acoustic & Duct Noise Control Specialist",
+        "offerLetter": "assets/OfferLetters/offer_mep_7.svg",
+        "resume": "assets/Resumes/resume_mep_7.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mep-8",
+        "url": "assets/Mechanical/mechanical_8.png",
+        "title": "Cleanroom HVAC & Filtration Specialist",
+        "description": "ISO Class 5 cleanroom laminar airflow design, HEPA filter sizing, and differential pressure cascade control for pharmaceutical facilities.",
+        "skills": [
+          "Cleanroom Design",
+          "HEPA Filtration",
+          "HVAC",
+          "Revit MEP"
+        ],
+        "company": "Blue Star",
+        "hidden": false,
+        "courseStudied": "Cleanroom HVAC & Filtration Specialist",
+        "offerLetter": "assets/OfferLetters/offer_mep_8.svg",
+        "resume": "assets/Resumes/resume_mep_8.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mep-9",
+        "url": "assets/Mechanical/mechanical_9.png",
+        "title": "Solar PV & Electrical Layout Engineer",
+        "description": "Rooftop solar photovoltaic string sizing, inverter selection, and AC/DC distribution wiring layout.",
+        "skills": [
+          "Electrical Layout",
+          "Solar PV",
+          "AutoCAD MEP",
+          "Single Line Diagram"
+        ],
+        "company": "Schneider Electric",
+        "hidden": false,
+        "courseStudied": "Solar PV & Electrical Layout Engineer",
+        "offerLetter": "assets/OfferLetters/offer_mep_9.svg",
+        "resume": "assets/Resumes/resume_mep_9.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mep-10",
+        "url": "assets/Mechanical/mechanical_10.png",
+        "title": "MEP Quantity Surveyor & Cost Estimator",
+        "description": "Bill of quantities (BOQ) extraction from Revit BIM models, material takeoff, and MEP project bidding documentation.",
+        "skills": [
+          "Quantity Surveying",
+          "BOQ",
+          "Revit MEP",
+          "Cost Estimation"
+        ],
+        "company": "L&T Construction",
+        "hidden": false,
+        "courseStudied": "MEP Quantity Surveyor & Cost Estimator",
+        "offerLetter": "assets/OfferLetters/offer_mep_10.svg",
+        "resume": "assets/Resumes/resume_mep_10.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mep-11",
+        "url": "assets/Mechanical/mechanical_11.png",
+        "title": "VRF/VRV Air Conditioning Designer",
+        "description": "Variable Refrigerant Flow (VRF) outdoor unit placement, refrigerant pipe branch sizing, and indoor unit load matching.",
+        "skills": [
+          "VRF Systems",
+          "HVAC Design",
+          "Revit MEP",
+          "Duct Design"
+        ],
+        "company": "Voltas",
+        "hidden": false,
+        "courseStudied": "VRF/VRV Air Conditioning Designer",
+        "offerLetter": "assets/OfferLetters/offer_mep_11.svg",
+        "resume": "assets/Resumes/resume_mep_11.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mep-12",
+        "url": "assets/Mechanical/mechanical_12.png",
+        "title": "Substation & High Voltage Distribution Trainee",
+        "description": "11kV indoor substation layout, SF6 ring main unit (RMU) positioning, and earthing grid resistance calculations.",
+        "skills": [
+          "Electrical Substation",
+          "Earthing Grid",
+          "High Voltage",
+          "AutoCAD MEP"
+        ],
+        "company": "Sterling and Wilson",
+        "hidden": false,
+        "courseStudied": "Substation & High Voltage Distribution Trainee",
+        "offerLetter": "assets/OfferLetters/offer_mep_12.svg",
+        "resume": "assets/Resumes/resume_mep_12.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mep-13",
+        "url": "assets/Mechanical/mechanical_13.png",
+        "title": "Rainwater Harvesting & Plumbing Specialist",
+        "description": "Sub-surface rainwater percolation pit calculations, hydro-pneumatic pumping system sizing, and sewage treatment plant (STP) piping.",
+        "skills": [
+          "Plumbing Engineering",
+          "STP Design",
+          "Rainwater Harvesting",
+          "Piping"
+        ],
+        "company": "L&T Construction",
+        "hidden": false,
+        "courseStudied": "Rainwater Harvesting & Plumbing Specialist",
+        "offerLetter": "assets/OfferLetters/offer_mep_13.svg",
+        "resume": "assets/Resumes/resume_mep_13.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mep-14",
+        "url": "assets/Mechanical/mechanical_14.png",
+        "title": "Navisworks 4D Clash Detection Engineer",
+        "description": "Hard clash and soft clearance conflict resolution between MEP services and structural beam profiles in Navisworks Manage.",
+        "skills": [
+          "Navisworks",
+          "Clash Detection",
+          "BIM 3D",
+          "Revit MEP"
+        ],
+        "company": "Blue Star",
+        "hidden": false,
+        "courseStudied": "Navisworks 4D Clash Detection Engineer",
+        "offerLetter": "assets/OfferLetters/offer_mep_14.svg",
+        "resume": "assets/Resumes/resume_mep_14.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      },
+      {
+        "id": "img-mep-15",
+        "url": "assets/Mechanical/mechanical_15.png",
+        "title": "Green Building Energy Simulation Engineer",
+        "description": "ASHRAE 90.1 building envelope energy simulation, daylight analysis, and LEED certification compliance modeling.",
+        "skills": [
+          "Green Building",
+          "ASHRAE 90.1",
+          "Energy Modeling",
+          "HVAC"
+        ],
+        "company": "Johnson Controls",
+        "hidden": false,
+        "courseStudied": "Green Building Energy Simulation Engineer",
+        "offerLetter": "assets/OfferLetters/offer_mep_15.svg",
+        "resume": "assets/Resumes/resume_mep_15.svg",
+        "showOfferLetter": true,
+        "showResume": true
+      }
+    ]
+  }
+}
